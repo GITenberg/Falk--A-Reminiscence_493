@@ -1,0 +1,35 @@
+_repo: Falk--A-Reminiscence_493
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Józef Konrad Teodor
+    - Korzeniowski, Joseph Conrad Theodore
+    - Korzeniowski, Jozef Konrad Teodor
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+description: 'Now enshrined among the most important writers of fiction in the Western
+  literary canon, Joseph Conrad''s stories often deal with the themes of the sea and
+  nautical travel. In Falk: A Reminiscence, Conrad amplifies and extends a memory
+  from his own childhood, turning a favorite family myth into a harrowing journey
+  to the very limits of human morality. A must-read for fans of the action-adventure
+  genre.'
+gutenberg_issued: '2006-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '493'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seafaring life -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+title: 'Falk: A Reminiscence'
+url: http://www.gutenberg.org/ebooks/493
